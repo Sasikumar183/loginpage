@@ -8,7 +8,7 @@
 }
 section{
     display: flex;
-    position:fixed;
+    
     justify-content: center;
     align-items: center;
     min-height: 100vh;
