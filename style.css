@@ -19,7 +19,7 @@ section{
 }
 
 .form-box{
-    position: fixed;
+    position: abosolute;
     width: 400px;
     height: 350px;
     background: transparent;
